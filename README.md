@@ -13,5 +13,5 @@ This project analyzes customer transaction data using SQL. It includes queries t
 - Data analysis and aggregation
 
 ## How to Use
-- Download the `queries.sql` file and run it in your SQL environment.
-- Sample dataset provided in `sample_dataset.csv`.
+- Download the `Transaction and analysis.sql` file and run it in your SQL environment.
+- Sample dataset provided in `sample_data.csv`.
